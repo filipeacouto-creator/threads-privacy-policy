@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">FC</title>
+  <rect width="512" height="512" rx="112" fill="#3B82F6"/>
+  <g fill="#102A63">
+    <path d="M112 116h202v62H182v60h116v60H182v98h-70z"/>
+    <path d="M400 182c-19-12-39-18-61-18-53 0-88 35-88 92s35 92 88 92c22 0 42-6 61-18v71c-20 10-43 15-68 15-91 0-155-64-155-160s64-160 155-160c25 0 48 5 68 15z"/>
+  </g>
+</svg>
